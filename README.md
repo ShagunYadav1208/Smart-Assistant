@@ -28,5 +28,13 @@ A Python-based **Personal Assistant Desktop Application** built with **Tkinter**
 
 ---
 
+## 🛠️ Tech Stack
+- **Python 3.x**
+- **Tkinter & CustomTkinter** (GUI)
+- **Pandas** (Data handling)
+- **gTTS** (Text-to-Speech)
+- **OS / File Handling**
+
+---
 
 
